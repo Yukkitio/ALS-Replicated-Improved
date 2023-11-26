@@ -1,13 +1,9 @@
-# ALS_V4_Replicated
- advanced locomotion system v4 Replicated improved and fixed. 
+# ALS-V4 Multiplayer
 
-Created By: Caleb Longmire
-Replicated By: Noms
+ - [ALS Community](https://github.com/dyanikoglu/ALS-Community)
+ - [ALS V4 Replicated](https://github.com/RigTag/ALS_V4_Replicated/tree/main)
 
-This is a community-based effort to fully and effectively replicate Advanced Locomotion System v4 which is permanently free on the Epic Marketplace.
-Discussion regarding the replication effort of ALS should take place on the official discord for 
-Advanced Locomotion System here: https://discord.gg/wYYMHFu
+Go checkout his work,this version of ALS come with a weapon system describe in his videos
 
-This is a my personal Fork feel free to report and pull.
 
-![ALS_V4_Replicated](https://i.ytimg.com/vi/t_1LZnf3jOI/maxresdefault.jpg)
+ - [Native Coder](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
